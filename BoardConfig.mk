@@ -20,8 +20,7 @@
 # definition file).
 #
 
-# Boldly go.
-USE_CLANG_PLATFORM_BUILD := true
+
 
 # Inherit from oppo-common
 -include device/oppo/common/BoardConfigCommon.mk
